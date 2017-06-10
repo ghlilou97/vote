@@ -1,0 +1,55 @@
+
+print("Bonjour et bienvenu dans notre programme de vote nous allons partir sur la base de 3 candidat ")
+a=input("Entrez le nom  de 1er candidat:")
+b=input("Entrez le nom  de 2eme candidat:")
+c=input("Entrez le nom  de 3eme candidat:")
+d=int(input("Veuillez preciser le nombre de votants :"))
+print("Si vous voulez votez pour",a,"entrez 1")
+print("Si vous voulez votez pour",b,"entrez 2")
+print("Si vous voulez votez pour",c,"entrez 3")
+
+i=int()
+i=0
+for i in range(1, d): 
+ while  e>3 : 
+         e=int(input("Entrez le numero   de votre candidat:"))
+         
+         return e
+            if  int(e)=1 :
+              g=g+1
+             if e=2 :
+              h=h+1
+             if  e=3 :
+             k=k+1
+              j=g/d*100
+               m=k/d*100
+               l=h/d*100
+               
+      
+ return g,h,k
+if j>m>l:
+    print(a,"A gagner son pourcentage est",j"%")
+    print(b,"est 2eme son pourcentage est",m"%")
+    print(C,"est 3eme son pourcentage est ",l"%")
+if j>l>m:
+        print(a,"A gagner son pourcentage est",j"%")
+    print(b,"est 2eme son pourcentage est",m"%")
+    print(C,"est 3eme son pourcentage est ",l"%")
+if m>j>l:
+            print(a,"A gagner son pourcentage est",j"%")
+    print(b,"est 2eme son pourcentage est",m"%")
+    print(C,"est 3eme son pourcentage est ",l"%")
+if m>l>j
+                print(a,"A gagner son pourcentage est",j"%")
+    print(b,"est 2eme son pourcentage est",m"%")
+    print(C,"est 3eme son pourcentage est ",l"%")
+if l>m>j:
+                    print(a,"A gagner son pourcentage est",j"%")
+    print(b,"est 2eme son pourcentage est",m"%")
+    print(C,"est 3eme son pourcentage est ",l"%")
+if l>j>m:
+                        print(a,"A gagner son pourcentage est",j"%")
+    print(b,"est 2eme son pourcentage est",m"%")
+    print(C,"est 3eme son pourcentage est ",l"%")
+
+ return i 
